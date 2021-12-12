@@ -1,0 +1,28 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.col-7 h1{
+    color:rgba(8, 8, 8, 1); 
+    letter-spacing: -0.07em; 
+    font-weight:500;
+}
+
+.col-12 h5{
+    font-size: 15px;
+}
+
+
+nav a{
+    font-weight: 500;
+}
+
+.bg-yellow1{
+    background-color:#FFC017;
+}
+
+
+
+.border-bottom1{
+    border-bottom: 1px solid #222;
+}
